@@ -1,0 +1,35 @@
+1)Logistic Regression
+Training Accuracy: 92.7%
+Test Accuracy: 93.4%
+
+2)K-Nearest Neighbors
+Training Accuracy:96.5%
+Test Accuracy:93.8%
+
+3)Support Vector Machine Classifier.
+Training Accuracy: 96.9%
+Test Accuracy: 96.4%
+
+4)Navie Bayes Classifier
+Training Accuracy:60.5%
+Test Accuracy: 60.5%
+
+5)Decision Trees Classifier
+Training Accuracy: 99.1%
+Test Accuracy: 96.0%
+
+6)Random Forest Classifier
+Training Accuracy:99.1%
+Test Accuracy: 96.7%
+
+7)Gradient Boosting Classifier
+Training Accuracy: 98.9%
+Test Accuracy: 97.4%
+
+8)XGBoost Classifier
+Training Accuracy: 98.8%
+Test Accuracy: 97.1%
+
+9)Multi-layer Perceptron Classifier.
+Training Accuracy: 98.8%
+Test Accuracy: 96.9%
